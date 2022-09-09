@@ -1,0 +1,19 @@
+.img-container{
+    display: flex;
+    justify-content: center;
+}
+.card-image{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: fit-content ;
+    height:auto; 
+}
+.about-us_info h3{
+    margin-bottom: 30px;
+}
+.about-us_info p{
+    line-height:2;
+}
+.about-us_title{
+    margin-top:30px ;
+}

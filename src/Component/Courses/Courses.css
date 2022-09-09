@@ -1,0 +1,36 @@
+.course-container{
+    margin-bottom: 60px;
+    
+}
+.section-title{
+    font-size: 34px;
+    color: #2c2b5e;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    margin: 62px;
+    text-transform: uppercase;
+}
+.default-btn{
+    padding: 9px 16px;
+    background-color: #EC1C23;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.course-img img{
+    width: 350px;
+    height: 270px;
+    margin: 3px;
+    padding:5px;
+}
+.single-course{
+    padding-bottom: 40px;
+    overflow:hidden;
+    box-shadow: 1px 1px 5px grey
+   
+}
+.course-row{
+    display:flex;
+}

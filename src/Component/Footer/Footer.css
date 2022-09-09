@@ -1,0 +1,10 @@
+.footer{
+    background-color:rgb(224, 246, 255)
+}
+.footer-title h3{
+    margin-top:30px;
+    margin-bottom: 50px;
+}
+.footer ul li {
+    list-style-type: none;
+}
